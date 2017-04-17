@@ -1,0 +1,27 @@
+﻿  getFile.c
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(83): warning C4020: 'perror': too many actual parameters
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(112): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(115): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: see declaration of 'strdup'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(137): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(195): warning C4133: '=': incompatible types - from 'Node *' to 'listNode *'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(215): warning C4133: '=': incompatible types - from 'Node *' to 'listNode *'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(234): warning C4047: '=': 'listNode *' differs in levels of indirection from 'int'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(245): warning C4047: '=': 'listNode *' differs in levels of indirection from 'int'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(235): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'listNode *'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(246): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'listNode *'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(263): warning C4133: '=': incompatible types - from 'Node *' to 'listNode *'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(274): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+c:\users\rwlar\onedrive\documents\github\briefly\briefly\getfile.c(273): warning C4101: 'i': unreferenced local variable
+  Briefly.vcxproj -> C:\Users\rwlar\OneDrive\Documents\GitHub\Briefly\Debug\Briefly.exe
+  Briefly.vcxproj -> C:\Users\rwlar\OneDrive\Documents\GitHub\Briefly\Debug\Briefly.pdb (Partial PDB)
